@@ -1,0 +1,7 @@
+requests
+urllib3
+jinja2
+idna
+chardet
+certifi
+markupsafe
